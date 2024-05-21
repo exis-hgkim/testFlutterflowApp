@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280306826084",
+    "project_id": "upload-file-test-app-asy5z7",
+    "storage_bucket": "upload-file-test-app-asy5z7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280306826084:android:e7000ccd308582bb375871",
+        "android_client_info": {
+          "package_name": "com.exissw.uploadfiletestapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkeJgIqnTZRgWiTwKGAaSYFVJXL-lNXoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
