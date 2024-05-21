@@ -172,10 +172,13 @@ class _UploadFilePageWidgetState extends State<UploadFilePageWidget> {
                   ),
                 ),
               ),
-              FlutterFlowPdfViewer(
-                networkPath: _model.uploadedFileUrl,
-                height: 300.0,
-                horizontalScroll: false,
+              Padding(
+                padding: const EdgeInsetsDirectional.fromSTEB(0.0, 30.0, 0.0, 0.0),
+                child: FlutterFlowPdfViewer(
+                  networkPath: _model.uploadedFileUrl,
+                  height: 300.0,
+                  horizontalScroll: false,
+                ),
               ),
             ],
           ),
